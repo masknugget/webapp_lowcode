@@ -1,0 +1,11 @@
+pyodide
+streamlit
+wave
+dash
+
+
+pip install dash
+pip install jupyter-dash
+pip install pandas
+dash_daq
+pip install dash-canvas==0.1.0

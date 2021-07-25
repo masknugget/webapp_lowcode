@@ -1,0 +1,26 @@
+pip install dash-bootstrap-components
+pip install dash-ui
+pip install dash-trich-components
+pip install sd-material-ui
+pip install dash-pivottable
+pip install dash_tabulator
+pip install dash-leaflet
+pip install visdcc
+
+
+import dash
+import dash_core_components as dcc
+from dash_extensions import Sync
+
+
+pip install dash-ace
+
+pip install dash-extensions==0.0.18
+from dash_extensions import Download
+
+
+pip install dash-resumable-upload
+import video_engine as rpd
+
+pip install dash-extensions==0.0.23
+from dash_extensions.callback import CallbackCache
